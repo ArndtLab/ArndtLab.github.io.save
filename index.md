@@ -7,6 +7,7 @@ title: The Arndt Lab
 
 ## Project
 
-- sdfjh
-- ksdfhksd
+- Project 1
+- Project 2
+
 - skfdhds

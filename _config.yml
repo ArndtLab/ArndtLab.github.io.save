@@ -6,7 +6,8 @@ theme: jekyll-theme-minimal
 # Theme vars
 title: Arndt Lab
 description: General Posting
-github.is_user_page: false
+github:
+  is_user_page: false
 
 
 
