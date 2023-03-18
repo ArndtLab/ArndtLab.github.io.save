@@ -3,11 +3,12 @@ title: The Arndt Lab
 ---
 
 
-# Site of pp
+# Team
 
-## Project
+# Projects
+## Project 1
 
-- Project 1
-- Project 2
+We excited to have found a decent way to find a rough estimate for a quanty of little interest.
 
-- skfdhds
+## Project 2
+
