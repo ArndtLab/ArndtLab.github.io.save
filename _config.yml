@@ -3,6 +3,12 @@
 theme: jekyll-theme-minimal
 
 
+# Theme vars
+title: Arndt Lab
+description: General Posting
+
+
+
 # Markdown Processors
 kramdown:
   auto_ids          : true

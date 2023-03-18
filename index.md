@@ -1,5 +1,5 @@
 ---
-title: Arndt Lab
+title: The Arndt Lab
 ---
 
 
