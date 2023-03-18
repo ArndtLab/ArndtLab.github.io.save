@@ -11,14 +11,17 @@ author: Peter Arndt
 Principal Investigator
 
 ## Dr. Eldar A
+![Male](assets/male-emplyee-icon.png){: width="150" }
 
 PostDoc
 
 ## Dinesh
+![Male](assets/male-emplyee-icon.png){: width="150" }
 
 Master Student
 
 ## Tommaso S
+![Male](assets/male-emplyee-icon.png){: width="150" }
 
 Master Student
 
