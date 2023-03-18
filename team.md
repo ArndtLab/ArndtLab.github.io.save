@@ -1,6 +1,5 @@
 ---
 author: Peter Arndt
-# layout: post
 ---
 
 # The Team
