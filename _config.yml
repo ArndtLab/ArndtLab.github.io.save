@@ -6,6 +6,7 @@ theme: jekyll-theme-minimal
 # Theme vars
 title: The Arndt Lab
 description: |
+  <a href="team.html">Team</a>
   [Projects](index) 
   [Team](team)
 
