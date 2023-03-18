@@ -25,3 +25,8 @@ Master Student
 
 Master Student
 
+## Charlotte S
+![Male](assets/female-employee-icon.png){: width="150" }
+
+Bachelor Student
+
