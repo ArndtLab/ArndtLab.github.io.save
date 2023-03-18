@@ -6,7 +6,7 @@ author: Peter Arndt
 # The Team
 
 ## Dr. Peter Arndt
-![Peter Arndt](assets/dr_peter_arndt.webp | width=100)
+![Peter Arndt](assets/dr_peter_arndt.webp){: width="150" }
 
 Principal Investigator
 
