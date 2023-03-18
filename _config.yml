@@ -5,7 +5,10 @@ theme: jekyll-theme-minimal
 
 # Theme vars
 title: The Arndt Lab
-description: [Projects](index) [Team](team)
+description: |
+  [Projects](index) 
+  [Team](team)
+
 logo: assets/logo.png
 github:
   is_user_page: false
