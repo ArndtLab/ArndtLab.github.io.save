@@ -7,7 +7,7 @@ author: Peter Arndt
 
 ## Peter Arndt
 
-[Peter Arndt](assets/dr_peter_arndt.webp)
+![Peter Arndt](assets/dr_peter_arndt.webp)
 Principal Investigator
 
 ## Eldar A
