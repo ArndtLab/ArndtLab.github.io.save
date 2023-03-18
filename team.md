@@ -5,16 +5,20 @@ author: Peter Arndt
 
 # The Team
 
-## Peter Arndt
-
+## Dr. Peter Arndt
 ![Peter Arndt](assets/dr_peter_arndt.webp)
+
 Principal Investigator
 
-## Eldar A
+## Dr. Eldar A
 
 PostDoc
 
-## Dines
+## Dinesh
+
+Master Student
+
+## Tommaso S
 
 Master Student
 

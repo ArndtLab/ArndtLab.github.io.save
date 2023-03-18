@@ -24,4 +24,4 @@ Silent sir say desire fat him letter. Whatever settling goodness too and honoure
 
 # Team
 
-Find out about the team here.
+Find out about the team [here](team).
